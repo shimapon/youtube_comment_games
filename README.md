@@ -1,0 +1,2 @@
+# youtube_comment_games
+youtubeLiveから取得したコメントでゲームをする．
